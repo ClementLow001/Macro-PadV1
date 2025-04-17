@@ -1,0 +1,6 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",16,1N4148WS,D_SOD-323,,smt
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9",16,MX_SW_HS,SW_MX_HS_CPG151101S11_1u,,smt
+OL1,1,OLED,OLED,,tht
+RZ1,1,RP2040-Zero,RP2040-Zero,,tht
+"SW1, SW2",2,RotaryEncoder_Switch,ROT_Alps_EC11E-Switch,,tht
